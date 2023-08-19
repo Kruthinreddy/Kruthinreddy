@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kruthinreddy
-- 👀 I’m interested in web development and android development
-- 🌱 I’m currently learning java and pythom
-- 💞️ I’m looking to collaborate on Web applications and related workds
+- 👀 I’m interested in Web Development and Android Applications Development
+- 🌱 I’m currently learning Java and Pythom
+- 💞️ I’m looking to collaborate on Web Application Development and related workds
 - 📫 How to reach me - reddykruthin@gmail.com
 
 <!---
